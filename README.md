@@ -1,5 +1,7 @@
 # Criminal Identity Detector
 
+It is my B.Tech final project.
+
 It is a Python Tkinter based desktop application that helps to identify criminal based on eye witness  information. It draws the image of criminal based on user voice input and search the images from the database. It replaces the work of forensic artist and saves the time of searching the  criminal. It does this quickly and accurately using deep learning algorithms.
 
 It will be used by investigation teams because searching the criminal by uncleared image is very time consuming task. It need images of all the people of India which can be possible if this project is hand over to  government. Peoples facial features change at different phases of life so  it need image database creation for one time and will update these image using AI aging algorithm.
