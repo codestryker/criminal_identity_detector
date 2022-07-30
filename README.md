@@ -1,6 +1,6 @@
 # Criminal Identity Detector
 
-It is my B.Tech final project.
+It is my B.Tech final year project.
 
 It is a Python Tkinter based desktop application that helps to identify criminal based on eye witness  information. It draws the image of criminal based on user voice input and search the images from the database. It replaces the work of forensic artist and saves the time of searching the  criminal. It does this quickly and accurately using deep learning algorithms.
 
